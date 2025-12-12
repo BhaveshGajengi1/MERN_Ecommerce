@@ -1,6 +1,6 @@
 # Project Demo
 
-[![Alt text](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)](https://www.youtube.com/watch?v=lXk14qt2D28)
+[(https://img.youtube.com/vi/lXk14qt2D28/0.jpg)]
 
 ## Getting Started
 
@@ -105,4 +105,4 @@ Follow these setps 👇👇
 
 You can deploy frontend into vercel or netlify also. Thanks
 
-`Build with 💛 by Hasan`
+`Build with 💛 by Bhavesh`
