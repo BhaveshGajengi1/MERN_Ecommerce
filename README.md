@@ -1,6 +1,6 @@
 # Project Demo
 
-[(https://img.youtube.com/vi/lXk14qt2D28/0.jpg)]
+![Project Demo](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)
 
 ## Getting Started
 
